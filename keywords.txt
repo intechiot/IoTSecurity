@@ -1,0 +1,17 @@
+# Syntax Coloring Map for IoTSecurity
+# Datatypes (KEYWORD1)
+IoTSecurity	KEYWORD1
+IoTAuthentication	KEYWORD1
+IoTEncryption	KEYWORD1
+IoTIntegrity	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+securePacket	KEYWORD2
+verifyPacket	KEYWORD2
+encrypt	KEYWORD2
+decrypt	KEYWORD2
+compute	KEYWORD2
+verify	KEYWORD2
+
+# Constants (LITERAL1)
